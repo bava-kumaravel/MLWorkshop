@@ -1,2 +1,2 @@
 # MLWorkshop
-ML WOrkshop at AUtodesk BUILD Space with Cristobal Valenzuela.
+ML Workshop at Autodesk BUILD Space with Cristobal Valenzuela.
